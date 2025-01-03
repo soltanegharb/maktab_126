@@ -1,0 +1,14 @@
+The File Report:
+/////////////////////
+
+
+
+
+The Amount of Budget for the Project Id:1 is 50000
+The Amount of Budget for the Project Id:5 is 60000
+The Amount of Budget for the Project Id:8 is 75000
+The Amount of Budget for the Project Id:2 is 80000
+The Amount of Budget for the Project Id:10 is 90000
+The Amount of Budget for the Project Id:3 is 120000
+The Amount of Budget for the Project Id:6 is 150000
+The Amount of Budget for the Project Id:9 is 200000
